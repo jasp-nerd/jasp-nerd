@@ -20,7 +20,7 @@ I'm an AI student at Vrije Universiteit Amsterdam with a passion for coding and 
 
 ### 🌐 Find Me Around The Web
 - [LinkedIn]() - Professional updates (🚧 coming soon)
-- [Personal Website/Blog]() - Projects and thoughts (🚧 coming soon)
+- [Personal Website/Blog](https://jasp-nerd.github.io/)() - Projects and thoughts 
 
 ---
 ⭐️ From jasp-nerd (https://github.com/jasp-nerd)
