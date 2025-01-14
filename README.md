@@ -1,26 +1,15 @@
-# Hi, I'm Jasp 👋 🤖
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jasp-nerd/jasp-nerd/refs/heads/main/Blue%20and%20Green%20Retro%20Pixelated%20Illustrated%20Quiz%20Presentation.jpg" width="600">
+</p>
 
-## AI Student & Coding Enthusiast
+I'm an AI student who is passionate about learning new technologies and solving complex problems. Connect with me on LinkedIn.
 
-I'm an AI student at Vrije Universiteit Amsterdam with a passion for coding and problem-solving. I enjoy exploring different programming languages and building small projects in my free time.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasper-meijerink-568701334)](https://www.linkedin.com/in/jasper-meijerink-568701334)
+[![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.f.l.meijerink@student.vu.nl)](mailto:j.f.l.meijerink@student.vu.nl)
 
-### 🎓 Education
-- Bachelor's in Artificial Intelligence at Vrije Universiteit Amsterdam
-- Interested in machine learning and its applications
-
-### 💻 Technical Skills
-- **Programming:**
-  - Python
-  - Basic Web Development (HTML, CSS, JavaScript)
-  - SQL
-
-### 🌱 Currently Learning
-- The basics of GitHub and version control
-- Developing AI bots for the card game Schnapsen
-
-### 🌐 Find Me Around The Web
-- [LinkedIn]() - Professional updates (🚧 coming soon)
-- [Personal Website/Blog](https://jasp-nerd.github.io/) - Projects and thoughts 
-
----
-⭐️ From jasp-nerd (https://github.com/jasp-nerd)
+## ⚡ Skills:
+- Python
+- HTML, CSS & JavaScript
+- Machine Learning
+- Problem-solving
+- Teamwork & Collaboration
