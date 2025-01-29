@@ -4,7 +4,7 @@
 
 I'm an AI student who is passionate about learning new technologies and solving complex problems. Connect with me on LinkedIn.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasper-m-568701334)](https://www.linkedin.com/in/jasper-m-568701334)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasper-meij-vu)](https://www.linkedin.com/in/jasper-meij-vu)
 [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.f.l.meijerink@student.vu.nl)](mailto:j.f.l.meijerink@student.vu.nl)
 
 ## ⚡ Skills:
