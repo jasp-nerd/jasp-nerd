@@ -1,4 +1,4 @@
-![logo](logo.webp)
+
 I'm an AI student passionate about learning new technologies and solving complex problems. I've started a position at Vrije Universiteit Amsterdam as a student assistant, helping integrate AI into teaching and improving education. Connect with me on LinkedIn.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasper-meij-vu)](https://www.linkedin.com/in/jasper-meij-vu)
