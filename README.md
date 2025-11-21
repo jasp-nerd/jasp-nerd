@@ -1,26 +1,27 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jasper+%F0%9F%91%8B;AI+Student+%40+VU+Amsterdam;Building+AI+for+Education+%F0%9F%9A%80;Full-Stack+%2B+GenAI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jasper;AI+Student+%40+VU+Amsterdam;Building+AI+for+Education;Full-Stack+%2B+GenAI+Developer)](https://git.io/typing-svg)
 
 </div>
 
-## 🧠 About Me
+## About Me
 
 AI Bachelor's student specializing in **Intelligent Systems** | Building tools that bridge AI and education | Passionate about automation & generative AI
 
-- 🎓 BSc AI (Honours) @ VU Amsterdam
-- 🏫 Student Assistant @ VU Education Lab — teaching AI literacy to 200+ faculty
-- 🔨 Building production Chrome extensions, full-stack web apps, and research tools
-- 🤖 Obsessed with the latest in GenAI, LLMs, and practical AI applications
+- BSc AI (Honours) @ VU Amsterdam
+- Student Assistant @ VU Education Lab — teaching AI literacy to 100+ faculty
+- Building production Chrome extensions, full-stack web apps, and research tools
+- Obsessed with the latest in GenAI, LLMs, and practical AI applications
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```javascript
 const jasper = {
     code: ["Python", "JavaScript", "SQL"],
     frameworks: ["React", "Flask", "Node.js", "Express"],
+    ai: ["OpenAI API", "Google Gemini", "Claude API", "Prompt Engineering"],
     tools: ["Docker", "Git", "PostgreSQL", "Heroku", "Vercel"],
-    currentFocus: "Building AI tools for education 🎓"
+    currentFocus: "Building AI tools for education"
 };
 ```
 
@@ -36,18 +37,18 @@ const jasper = {
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-**🎓 [AI-Lesson-Helper](https://github.com/jasp-nerd/AI-Lesson-Helper)** — Production Chrome extension using Gemini AI to transform webpages into educational materials  
+**[AI-Lesson-Helper](https://github.com/jasp-nerd/AI-Lesson-Helper)** — Production Chrome extension using Gemini AI to transform webpages into educational materials  
 *Live on Chrome Web Store | Deployed for VU Amsterdam educators*
 
-**📚 [BookBuddy](https://github.com/jasp-nerd/BookBuddy)** — Full-stack book recommendation platform with AI-powered personalization  
+**[BookBuddy](https://github.com/jasp-nerd/BookBuddy)** — Full-stack book recommendation platform with AI-powered personalization  
 *React + Flask + Gemini API*
 
-**🔬 [Analysis-of-Student-Reflections-on-GenAI](https://github.com/jasp-nerd/Analysis-of-Student-Reflections-on-GenAI-in-Academic-Work)** — Research pipeline analyzing student perspectives on GenAI using LLMs  
+**[Analysis-of-Student-Reflections-on-GenAI](https://github.com/jasp-nerd/Analysis-of-Student-Reflections-on-GenAI-in-Academic-Work)** — Research pipeline analyzing student perspectives on GenAI using LLMs  
 *Python + DeepSeek/Azure OpenAI*
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
