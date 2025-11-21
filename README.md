@@ -19,7 +19,6 @@ AI Bachelor's student specializing in **Intelligent Systems** | Building tools t
 const jasper = {
     code: ["Python", "JavaScript", "SQL"],
     frameworks: ["React", "Flask", "Node.js", "Express"],
-    ai: ["OpenAI API", "Google Gemini", "Claude API", "Prompt Engineering"],
     tools: ["Docker", "Git", "PostgreSQL", "Heroku", "Vercel"],
     currentFocus: "Building AI tools for education"
 };
